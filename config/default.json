@@ -39,6 +39,7 @@
     },
     "verify_peer_off": true,
     "languages": {
+      "zh": "Chinese (Simplified)",
       "en": "English",
       "sq-AL": "Albanian (Albania)",
       "ar": "Arabic",
@@ -48,7 +49,6 @@
       "be": "Belarusian",
       "bg": "Bulgarian",
       "ca": "Catalan",
-      "zh": "Chinese (Simplified)",
       "zh-TW": "Chinese (Traditional)",
       "cs": "Czech",
       "da": "Danish",
